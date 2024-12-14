@@ -51,7 +51,7 @@ Flush には、「照れる」という意味がある
  * リアルな表情を生成するためにAIのテキスト出力から母音を予測して動画を生成した。
  * シンプルなUIで、簡単に扱えるようにした
  * ユーザの感情に合わせて会話内容が変わることが効果的であることを論理的に示した。
-   * 内容は発表資料参照（https://www.canva.com/design/DAGY9qhdg_c/fpFqjE9nkFjHBMuXQgzM2w/edit?utm_content=DAGY9qhdg_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton）
+   * 内容は発表資料参照（https://www.canva.com/design/DAGY9qhdg_c/fpFqjE9nkFjHBMuXQgzM2w/edit?utm_content=DAGY9qhdg_c&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton )
  * 沢山のタスクをNotionで役割ごとに管理し、タスクの可視化を行うことで、できる限りタスク漏れのないようにした。
 
 
